@@ -1241,4 +1241,14 @@
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
   "description": "API Gateway - me-south-1",
   "id": "855739686837"
+}, {
+  "owner": "Ermetic",
+  "source": "https://github.com/ermetic/utilities/blob/main/AWS/ControlTower/cloudformation/ermetic-controltower.yaml",
+  "description": "Ermetic",
+  "id": "081802104111"
+}, {
+  "owner": "Zesty",
+  "source": "https://github.com/zesty-co/AWS-Integration/blob/main/Zesty-Minimal-ReadOnly-IAM-Role.json",
+  "description": "Zesty",
+  "id": "672188301118"
 }]
