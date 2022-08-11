@@ -1246,4 +1246,9 @@
   "source": "https://github.com/ermetic/utilities/blob/main/AWS/ControlTower/cloudformation/ermetic-controltower.yaml",
   "description": "Ermetic",
   "id": "081802104111"
+}, {
+  "owner": "Zesty",
+  "source": "https://github.com/zesty-co/AWS-Integration/blob/main/Zesty-Minimal-ReadOnly-IAM-Role.json",
+  "description": "Zesty",
+  "id": "672188301118"
 }]
