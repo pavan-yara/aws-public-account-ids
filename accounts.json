@@ -1251,4 +1251,9 @@
   "source": "https://github.com/zesty-co/AWS-Integration/blob/main/Zesty-Minimal-ReadOnly-IAM-Role.json",
   "description": "Zesty",
   "id": "672188301118"
+}, {
+  "owner": "Serverless",
+  "source": "https://www.serverless.com/framework/docs/guides/monitoring/notifications",
+  "description": "Serverless framework",
+  "id": "802587217904"
 }]
