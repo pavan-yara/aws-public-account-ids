@@ -1757,6 +1757,13 @@
   ]
 },
 {
+ "owner": "Rudderstack",
+  "source": "https://www.rudderstack.com/docs/destinations/streaming-destinations/amazon-s3/",
+  "id": [
+    "422074288268"
+  ]
+},
+{
   "owner": "Cloudaware",
   "id": [
     "814021343637"
