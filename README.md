@@ -14,7 +14,7 @@ The source-of-truth is [`accounts.json`](https://raw.githubusercontent.com/ruper
 }
 ```
 ### Data Viewer
-A basic data view is generated from the JSON file and is available on [Github Pages](https://rupertbg.github.io/aws-public-account-ids/dist/index.html)
+A basic data view is generated from the JSON file and is available on [Github Pages](https://pavan-yara.github.io/aws-public-account-ids/dist/index.html)
 
 ## Build
 Run `npm i && npm run` to get `dist` up-to-date with any changes.
